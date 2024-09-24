@@ -1,0 +1,80 @@
+.form-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+    width: 20%;
+}
+
+.form-info {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+body {
+    background-color: #A7DFD1;
+}
+
+.navigation-menu {
+    text-align: center;
+}
+
+#button {
+    background-color: #11D7FA;
+}
+
+ th, td {
+    border: 1px solid;
+    text-align: center;
+}
+
+.table-example {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+h4, h6{
+    text-align: center;
+}
+
+.hobbies-column {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.hobbies-column2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.hobbies-row {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.hobbies-row2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#running, #food, #workout {
+    width: 140px;
+    display: flex;
+}
